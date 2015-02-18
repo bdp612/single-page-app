@@ -1,5 +1,3 @@
 # single-page-app
 
-this is my first attempt at creating a single page app. 
-the instructions for this app came from a Microsoft tutorial
-the app will quiz you on technical knowledge
+my first attempt at creating a single page app. developed with a Microsoft tutorial, this "geek quiz" app will test you on technical knowledge
